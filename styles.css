@@ -42,7 +42,7 @@ body {
 }
 
 .card:hover {
-    transform: scale(1.5);
+    transform: scale(1.3);
 }
 
 h2 {
@@ -89,5 +89,8 @@ ul,li {
     body {
         flex-direction: column;
         align-items: center;
+    }
+    .card {
+        margin: 20px;
     }
 }
