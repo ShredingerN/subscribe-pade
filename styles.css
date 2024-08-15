@@ -92,9 +92,9 @@ ul,li {
         align-items: center;
     }
     .card {
-        margin: 15px;
-        padding: 10px;
-
+        margin: 0px;
+        transform: scale(0.8);
+        
     }
     .card:hover {
         transform: scale(1.1);
