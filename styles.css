@@ -93,7 +93,7 @@ ul,li {
     }
     .card {
         margin: 15px;
-        height: 210px
+
     }
     .card:hover {
         transform: scale(1.1);
