@@ -8,7 +8,6 @@ body {
     height: 100vh;
     animation: changeColor 10s ease infinite, changeColor 10s ease 10s infinite;
     transition: background-color 2s;
-    border: 5px solid black
 
 }
 @keyframes changeColor {
